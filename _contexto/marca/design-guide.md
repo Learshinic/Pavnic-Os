@@ -9,29 +9,33 @@
 
 ## Cores
 
-- **Fundo principal:**
+- **Fundo principal:** creme claro / off-white (tom da peça do logo, aprox. `#FAF7F2`)
 
-- **Cor de destaque / CTA:**
+- **Cor de destaque / CTA:** dourado / latão (aprox. `#C9A876`)
 
-- **Texto principal:**
+- **Texto principal:** azul-marinho profundo (aprox. `#1B2A44`)
 
-- **Fundo alternativo / cards:**
+- **Fundo alternativo / cards:** neutro claro, um tom abaixo do fundo principal
 
-- **Cor proibida:**
+- **Cor proibida:** *(nenhuma definida ainda)*
 
 ---
 
 ## Tipografia
 
-- **Títulos e destaques:**
+- **Títulos e destaques:** *(ainda não definida — logo usa uma serifada/slab em caixa alta, mas não confirmado como padrão de texto corrido)*
 
-- **Corpo, subtítulos e botões:**
+- **Corpo, subtítulos e botões:** *(ainda não definida)*
 
 - **Peso do título:**
 
 ---
 
 ## Estilo geral
+
+Sóbrio e de alto padrão — remete a estratégia e resultado. A peça de marca (logo em relevo dourado
+sobre fundo azul-marinho, como um selo/emblema) puxa pra uma estética confiável, quase "institucional",
+sem ser fria.
 
 ---
 
@@ -50,8 +54,8 @@
 
 ## Logo
 
-- **Arquivo:** *(ex: `_contexto/marca/logo.png` ou `.svg`, junto deste arquivo)*
-- **Versão pra fundo escuro:** *(se tiver variação, ex: `logo-branco.png`)*
+- **Arquivo:** `_contexto/marca/Logo.png`
+- **Versão pra fundo escuro:** *(não tem ainda — logo já é sobre fundo claro)*
 - **Onde usar:** slide final do carrossel (CTA), header de propostas, slides de apresentação
 - **Tamanho sugerido:** largura entre 120-200px nos HTMLs
 
@@ -61,10 +65,10 @@
 
 > Usado no estilo "tweet" do carrossel. Preenchido automaticamente no setup.
 
-- **Nome:**
-- **Handle:**
-- **Foto:** *(ex: `foto-perfil.jpg`, nesta pasta)*
-- **Badge verificado:** *(sim/não)*
+- **Nome:** Israel Pavnic
+- **Handle:** @israelpavnic (pessoal) · @oisraelpavnic (conteúdo)
+- **Foto:** *(ainda não enviada)*
+- **Badge verificado:** não
 
 ---
 

@@ -1,14 +1,19 @@
 <!-- Teto deste arquivo: 180 linhas. Ele carrega em toda conversa, então cada linha aqui é paga sempre.
      O que cresce vai pras pastas (o mapa da seção 3 diz qual). A /faxina avisa quando estourar. -->
-# [Nome do negócio] · RatosOS
+# Pavnic Ads · RatosOS
 
-Se você acabou de instalar: rode `/setup` (uns 5 minutos). Depois, `/mapear` pra criar as
-habilidades do seu dia a dia. Neste arquivo, "você" é o dono do sistema; as instruções são pro agente.
+Neste arquivo, "você" é o dono do sistema; as instruções são pro agente.
 
 ## 1. O que é este sistema
 
-<!-- /setup preenche este bloco (4 a 8 linhas): o que esta pasta representa, quem você é, o que
-     faz e pra quem, o que mais produz aqui. Sem lista de ferramentas nem tom de voz: isso tem casa própria. -->
+Workspace de operações da Pavnic Ads, agência de marketing consultivo e de relacionamento/tráfego e
+vendas, com foco principal no mercado imobiliário (prospecção de imobiliárias e corretores,
+diagnóstico de canais de aquisição, tráfego pago) e flexibilidade pra atender PMEs locais de outros
+nichos, no mesmo escopo de agência de serviços. Serviços principais: gestão de tráfego pago, criação
+de conteúdo, criação de sites com IA, desenho de processos e funis de aquisição/qualificação,
+diagnóstico de canais de aquisição de leads. O que mais produzimos aqui: propostas comerciais,
+diagnósticos de prospecção, campanhas e conteúdo — pro mercado imobiliário e, com a mesma estrutura,
+pra PMEs locais.
 
 **Regras gerais**
 
@@ -158,3 +163,10 @@ no fim", e a sessão nunca morre sem essa oferta. Não oferecer em sessão trivi
 - `.claude/` · as habilidades (skills) deste sistema
 - `.ratosos` · a versão do kit (uma linha). Não apague: é como a atualização sabe de onde você parte
 <!-- pastas de trabalho abaixo, criadas pelo /setup conforme o negócio -->
+- `clientes/` · uma pasta por cliente (o `/novo-projeto` cria), com subpasta por marca quando o
+  cliente tiver mais de uma
+- `prospeccao/` · diagnósticos de canais de aquisição feitos pra abrir porta, antes de virar cliente
+- `propostas/` · propostas comerciais em andamento e enviadas
+- `conteudo/` · conteúdo próprio da Pavnic Ads (@israelpavnic, @oisraelpavnic)
+- `metodologia/` · funis, processos e playbooks reutilizáveis da agência, fora do contexto de um
+  cliente específico
